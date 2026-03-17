@@ -37,19 +37,19 @@ into a **PostgreSQL star schema** with **Power BI analytics dashboard**.
 ## Dashboard Screenshots
 
 ### Page 1 — Executive Summary
-![Executive Summary](screenshots/page1_executive_summary.png)
+![Executive Summary](screenshots/s1.png)
 
 ### Page 2 — Holiday Demand Analysis
-![Holiday Deep Dive](screenshots/page2_holiday_deep_dive.png)
+![Holiday Deep Dive](screenshots/s2.png)
 
 ### Page 3 — CPI & Inflation Impact
-![CPI Inflation](screenshots/page3_cpi_inflation.png)
+![CPI Inflation](screenshots/s3.png)
 
 ### Page 4 — Fuel Price Impact
-![Fuel Price](screenshots/page4_fuel_price.png)
+![Fuel Price](screenshots/s4.png)
 
 ### Page 5 — Store Performance
-![Store Performance](screenshots/page5_store_performance.png)
+![Store Performance](screenshots/s5.png)
 
 ## Project Structure
 ```
