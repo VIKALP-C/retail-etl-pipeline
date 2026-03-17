@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+ 
+# Environment variables — NEVER commit this
+.env
+ 
+# Data files (too large for GitHub)
+data/raw/*.csv
+data/staging/
+data/processed/
+ 
+# Logs
+logs/
+ 
+# VS Code settings
+.vscode/
+ 
+# Power BI (optional — large binary file)
+dashboard/*.pbix
+ 
